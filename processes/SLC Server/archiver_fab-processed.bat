@@ -6,5 +6,5 @@ robocopy "\\slc-stor-01\Production\Fabrication\Support\Cut Vinyl" "\\slc-stor-01
 robocopy "\\slc-stor-01\Production\Archives\Fabrication\To Cut" "\\slc-stor-01\Production\Imposition\.Live Services\To Delete" /move /s /MINAGE:90
 robocopy "\\slc-stor-01\Production\Archives\Fabrication\Cut Vinyl" "\\slc-stor-01\Production\Imposition\.Live Services\To Delete" /move /s /MINAGE:90
 
-ping 10.15.30.51 -n 6 > nul
+ping slc-stor-01 -n 6 > nul
 exit
