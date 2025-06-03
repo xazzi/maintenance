@@ -1,0 +1,7 @@
+Path,DaysOld,CleanEmptyFolders
+\\slc-stor-01.us.digitalroominc.com\Process_Development\Backup,2,Yes
+\\slc-stor-01.us.digitalroominc.com\Production\Imposition\Autorip-2,3,No
+\\slc-stor-01.us.digitalroominc.com\Production\Imposition\Processed,7,Yes
+\\slc-stor-01.us.digitalroominc.com\Production\Archives\Fabrication\To Cut,90,Yes
+\\slc-stor-01.us.digitalroominc.com\Production\Archives\Fabrication\Cut Vinyl,90,No
+\\slc-stor-01.us.digitalroominc.com\Production\Fabrication\Support\Hotfolders,14,No
