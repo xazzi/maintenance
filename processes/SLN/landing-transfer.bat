@@ -1,5 +1,2 @@
 :: Move files from the landing folders to their hotfolders
-robocopy "\\sln-gangs-p01.us.digitalroominc.com\DATA\Packaging\Zund Hotfolders\Landing" "\\sln-gangs-p01.us.digitalroominc.com\DATA\Packaging\Zund Hotfolders" /mov /s
-
-ping slc-stor-01 -n 6 > nul
-exit
+robocopy "\\sln-gangs-p01.us.digitalroominc.com\DATA\Packaging\Zund Hotfolders\Landing" "\\sln-gangs-p01.us.digitalroominc.com\DATA\Packaging\Zund Hotfolders" /MOV /S /COPY:DAT /DCOPY:T /Z /R:3 /W:5 /MT:8
