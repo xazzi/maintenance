@@ -1,0 +1,6 @@
+Path,DaysOld,CleanEmptyFolders
+\\AMZ-IMPSW-DATA.us.digitalroominc.com\IMPSW_DATA\Backup,14,Yes
+\\AMZ-IMPSW-DATA.us.digitalroominc.com\IMPSW_DATA\.Live Services\Item Data,7,Yes
+\\AMZ-IMPSW-DATA.us.digitalroominc.com\IMPSW_DATA\Support,30,No
+\\amz-phoenix-p02.us.digitalroominc.com\File Repository,2,No
+\\amz-phoenix-p02.us.digitalroominc.com\Repository_VL,2,No
